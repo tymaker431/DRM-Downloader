@@ -8,7 +8,7 @@
   ],
   "success_url": "https://github.com/TheCaduceus",
   "website": "https://github.com/TheCaduceus",
-  "repository": "https://github.com/TheCaduceus",
+  "repository": "https://github.com/releaseuserbot",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
